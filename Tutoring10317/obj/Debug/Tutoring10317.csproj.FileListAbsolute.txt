@@ -1,0 +1,6 @@
+C:\Users\drviv\Desktop\WCCIBootCamp\DanielsStuffFromBootcamp\Visual Studio 2015\Projects\Tutoring10317\Tutoring10317\bin\Debug\Tutoring10317.exe.config
+C:\Users\drviv\Desktop\WCCIBootCamp\DanielsStuffFromBootcamp\Visual Studio 2015\Projects\Tutoring10317\Tutoring10317\bin\Debug\Tutoring10317.exe
+C:\Users\drviv\Desktop\WCCIBootCamp\DanielsStuffFromBootcamp\Visual Studio 2015\Projects\Tutoring10317\Tutoring10317\bin\Debug\Tutoring10317.pdb
+C:\Users\drviv\Desktop\WCCIBootCamp\DanielsStuffFromBootcamp\Visual Studio 2015\Projects\Tutoring10317\Tutoring10317\obj\Debug\Tutoring10317.csprojResolveAssemblyReference.cache
+C:\Users\drviv\Desktop\WCCIBootCamp\DanielsStuffFromBootcamp\Visual Studio 2015\Projects\Tutoring10317\Tutoring10317\obj\Debug\Tutoring10317.exe
+C:\Users\drviv\Desktop\WCCIBootCamp\DanielsStuffFromBootcamp\Visual Studio 2015\Projects\Tutoring10317\Tutoring10317\obj\Debug\Tutoring10317.pdb
