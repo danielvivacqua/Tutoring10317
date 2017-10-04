@@ -41,42 +41,72 @@ namespace Tutoring10317
 
             //Console.WriteLine(bestHero + " is the very best!");
 
-            Console.WriteLine("What is your favorite CDMRW animal?");
-            Console.WriteLine("If you don't know what CDMRW stands for, type help.");
+            //Console.WriteLine("What is your favorite CDMRW animal?");
+            //Console.WriteLine("If you don't know what CDMRW stands for, type help.");
 
-            string faveAnimal = Console.ReadLine().ToLower();
-            string snack;
+            //string faveAnimal = Console.ReadLine().ToLower();
+            //string snack = "";
 
-            while(faveAnimal == "help")
+            //while(faveAnimal == "help")
+            //{
+            //    Console.WriteLine("Cat\tDog\tMonkey\tReindeer\tWhale");
+            //    Console.WriteLine("Please enter your favorite CDMRW animal.");
+            //    faveAnimal = Console.ReadLine().ToLower();
+            //}
+
+            //switch(faveAnimal)
+            //{
+            //    case "cat":
+            //        snack = "tuna";
+            //        break;
+            //    case "dog":
+            //        snack = "bacon";
+            //        break;
+            //    case "monkey":
+            //        snack = "banana";
+            //        break;
+            //    case "reindeer":
+            //        snack = "carrot";
+            //        break;
+            //    case "whale":
+            //        snack = "twinkies";
+            //        break;
+            //    default:
+            //       while(faveAnimal != "cat" && faveAnimal != "dog" && faveAnimal != "monkey" && faveAnimal != "reindeer" && faveAnimal != "whale")
+            //        {
+            //            Console.WriteLine("Please enter a correct animal.");
+            //            faveAnimal = Console.ReadLine().ToLower();
+            //        }
+            //            break;
+            //}
+
+            //Console.WriteLine("Enjoy a healthy " + snack);
+
+            Console.WriteLine("Do you like blues or reds?");
+            string userPreference = Console.ReadLine().ToLower();
+            
+            if(userPreference == "reds")
             {
-                Console.WriteLine("Cat\tDog\tMonkey\tReindeer\tWhale");
-                Console.WriteLine("Please enter your favorite CDMRW animal.");
-                faveAnimal = Console.ReadLine().ToLower();
+                Console.WriteLine("Do you like maroon or blood red?");
+                string userRed = Console.ReadLine().ToLower();
+                if (userRed == "maroon")
+                {
+                    Console.WriteLine("Like the band with the five?");
+                }
+                else if (userRed == "blood red") ;
+                {
+                    Console.WriteLine("Do you want to be a doctor?");
+                }
+                else 
+                {
+                    Console.WriteLine("That wasn't a choice.");
+                }
             }
-
-            switch(faveAnimal)
+            else if(userPreference == "blues")
             {
-                case "cat":
-                    snack = "tuna";
-                    break;
-                case "dog":
-                    snack = "bacon";
-                    break;
-                case "monkey":
-                    snack = "banana";
-                    break;
-                case "reindeer":
-                    snack = "carrot";
-                    break;
-                case "whale":
-                    snack = "twinkies";
-                    break;
-                default:
-                    snack = "go hungry";
-                    break;
-            }
+                Console.WriteLine("Do you like navy or baby blue?");
 
-            Console.WriteLine("Enjoy a healthy " + snack);
+            }
 
 
 
